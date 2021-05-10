@@ -37,7 +37,7 @@ class _ListOfEmailsState extends State<ListOfEmails> {
           right: false,
           child: Column(
             children: [
-              // This is our Seearch bar
+              // This is our Search bar
               Padding(
                 padding:
                     const EdgeInsets.symmetric(horizontal: kDefaultPadding),

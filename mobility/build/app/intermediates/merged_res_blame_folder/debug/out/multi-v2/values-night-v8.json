@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Mobility\\Mobility-Hasura-GraphQL-Firebase-Postgresql\\mobility\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "/Volumes/Mac/Mobility/Mobility/mobility/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\Mobility\\Mobility-Hasura-GraphQL-Firebase-Postgresql\\mobility\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "/Volumes/Mac/Mobility/Mobility/mobility/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
