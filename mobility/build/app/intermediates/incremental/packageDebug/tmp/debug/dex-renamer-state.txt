@@ -1,0 +1,4 @@
+#Tue May 11 00:33:07 GST 2021
+base.0=D\:\\Mobility\\Mobility-Hasura-GraphQL-Firebase-Postgresql\\mobility\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
