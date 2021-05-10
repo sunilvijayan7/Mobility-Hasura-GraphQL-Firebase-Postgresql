@@ -1,4 +1,0 @@
-#Tue May 11 02:34:30 GST 2021
-base.0=/Volumes/Mac/Mobility/Mobility/mobility/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
